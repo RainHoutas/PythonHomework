@@ -17,3 +17,4 @@ math_course = Course("CS101", "高等数学", "王老师", "教学楼A栋101")
 
 # 显示课程信息
 math_course.show_info()
+
