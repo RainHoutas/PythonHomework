@@ -1,7 +1,7 @@
 ﻿class jisuan:
-    def duochengji(*args):
+    def duochengji(*q):
         result = 1
-        for i in args:
+        for i in q:
             result *= i
         return result
 
